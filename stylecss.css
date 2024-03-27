@@ -1,5 +1,5 @@
 body{
-    font-family: poppins;
+    font-family: poppins, sans-serif;
     font-size: 14px;
     padding: 0px;
     margin: 0px;
@@ -129,7 +129,7 @@ img{
         padding: 3px 8px 8px 8px;
     }
     .centrer .left, .right{
-        font-size: 10px;
+        font-size: 12px;
         margin-bottom: 1px;
         padding-bottom: 1px;
     }
@@ -138,7 +138,7 @@ img{
     }
     section{
         margin-bottom: 1px;
-        padding-bottom: 1px;
+        padding-bottom: -10px;
     }
     footer{
         height: 30px;
