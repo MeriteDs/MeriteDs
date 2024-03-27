@@ -123,10 +123,10 @@ img{
     }
     nav li a{
         font-size: 10px;
-        padding: 10px;
+        padding: 8px;
     }
     nav li a:hover{
-        padding: 5px 10px 10px 10px;
+        padding: 3px 8px 8px 8px;
     }
     .centrer .left, .right{
         font-size: 10px;
@@ -134,7 +134,7 @@ img{
         padding-bottom: 1px;
     }
     img{
-        width: 120px;
+        width: 110px;
     }
     section{
         margin-bottom: 1px;
