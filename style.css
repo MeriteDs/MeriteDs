@@ -3,7 +3,7 @@ body{
     margin: 0px;
     padding: 0px;
     font-size: 12px;
-    font-family:poppins.otf ;
+    font-family:poppins;
 }
 /*PAGE PRINCIPAL D'ACCUEIL*/
 .principal{
@@ -15,7 +15,7 @@ img{
 button{
     border: none;
     border: 1px solid orange;
-    font-family: poppins.otf;
+    font-family: poppins;
     font-size: 10px;
     padding: 4px;
     width: 150px;
